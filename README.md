@@ -22,3 +22,4 @@ git push -u origin master - adicionar os ficheiros parte 3
 
 git pull origin master - receber os ficheiros alterados por outros utilizadores
 
+https://help.github.com/articles/resolving-a-merge-conflict-using-the-command-line/
