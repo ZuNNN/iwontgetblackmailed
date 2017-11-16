@@ -4,9 +4,9 @@
 }
 .panel-group{
   width: 300px;
-  margin-right: 500px;
 }
 
 .container{
   width: auto;
+  padding-right: 10px;
 }
